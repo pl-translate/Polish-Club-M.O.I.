@@ -16,6 +16,19 @@ pass not enough for any opening
 	3s
 	3n 13-15 HCP, 4333 or 4432 or 12-15 HCP, 5332, in any case 3-!h, 3-!s
 1d 12-17 HCP, 5+ !d or 4441 with 4!d or 12-14 HCP 4!d5!c, in any case 4-!h, 4-!s (but see 1NT)
+	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!d, 2!h)
+	1s 7+ HCP, 4+!s, 4 or 5 !h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
+	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s 
+	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
+	2d 12+ HCP, 5+!d, 4-!h, 4-!s
+	2h 6-10 HCP, 5+!s, 4+!h
+	2s 4-8 HCP, 6+!s
+	2n 12 HCP, 4333 or 4432 or 11 HCP, 5332, in any case 3-!h, 3-!s
+	3c 
+	3d
+	3h
+	3s
+	3n 13-15 HCP, 4333 or 4432 or 12-15 HCP, 5332, in any case 3-!h, 3-!s
 1h 12-17 HCP, 5+!h, 4-!s (but see 1NT)
 1s 12-17 HCP, 5+!s (but see 1NT)
 1n 15-17 HCP, 4333 or 4432, or 14-16 HCP 5332
