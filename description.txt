@@ -514,4 +514,12 @@ pass not enough for any opening
 3n AKQJxxx in !c of !d, no As, Ks or Qs aside [Gambling]
 
 @Slam bidding
-@!4n Blackwood
+	4n Blackwood
+		5c 1 or 4 keycards
+		5d 0 or 3 keycards
+		5h 2 keycards, no trump queen
+		5s 2 keycards, the trump queen and no side kings
+		5n 2 keycards, the trump queen and either the lowest of the side kings or two other two
+		6c 2 keycards, the trump queen and either the middle of the side kings or two other two
+		6d 2 keycards, the trump queen and either the highest of the side kings or the other two
+		6h 2 keycards, the trump queen and all side kings
