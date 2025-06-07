@@ -1,9 +1,22 @@
 &Polish Club M.O.I. version
 pass not enough for any opening
-1c 1) 12-14 HCP, 4333 or 4432 or 5!c332 2) 12-17 HCP, 441!d4 3) 15+ HCP, 5+ !c, 4-!d, 4-!h, 4-!s 3) 18+, any distribution [Polish Club]
+1c 1) 12-14 HCP, 4333 or 4432 or 5!c332 2) 12-17 HCP, 441!d4 3) 15+ HCP, 5+!c, 4-!d, 4-!h, 4-!s 3) 18+, any distribution [Polish Club]
 	1d 1) 0-6 HCP, any distribution 2) 7-11 HCP, 5+4+ in !d and !c, 3-!h, 3-!s 3) 7-11 HCP, 6+!c or 6+!d, 3-!h, 3-!s 4) 16+ HCP, 4-!c, 4-!d, 3-!h, 3-!s
+		1h 12-17 HCP, 3!h and 3-!s or 4!h, or 18+ HCP, 4+!h, 4-!s (but see 1NT, 2!d, 2!h, 2NT, 3!h)
+		1s 12-17 HCP, 3!s and 2-!h or 4!s and 3-!h, or 18+ HCP, 4+!s, 4 or 5!h only possible with 5+!s (but see 1NT, 2!d, 2!s, 2NT, 3!h, 3!s)
+		1n
+		2c
+		2d
+		2h
+		2s
+		2n
+		3c
+		3d
+		3h
+		3s
+		3n
 	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!d, 2!h)
-	1s 7+ HCP, 4+!s, 4 or 5 !h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
+	1s 7+ HCP, 4+!s, 4 or 5!h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
 	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s 
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 12+ HCP, 5+!d, 4-!h, 4-!s
@@ -232,12 +245,132 @@ pass not enough for any opening
 	4d 8+ HCP, 6+!s
 	4h 8+ HCP, 6+!h
 	4s 8+ HCP, 6+!s
-	4N 17 HCP, 4432 or 4333, or 16 HCP 5422 or 5332
+	4n 17 HCP, 4432 or 4333, or 16 HCP 5422 or 5332
 2c 12-14 HCP, 5+!c and 4!h/4!s or 6+!c [Precision]
 2d 6-10 HCP, 6!h or 6!s [Minimulti]
+	2h pass or correct
+		pass !h
+		2s !s
+	2s pass or correct
+		pass !s
+		2n !h, extras
+		3h !h, no extras
+	2n strong, asking
+		3c extras
+			3d asking
+				3h !s
+				3s !h
+		3d no extras, !h
+			3h to play
+			3s cue bid	
+			3n to play
+			4c cue bid
+			4d cue bid
+			4h to play
+		3h no extras, !s
+			3s to play
+			3n to play
+			4c cue bid
+			4d cue bid
+			4h cue bid
+			4s to play
+	3c strong with own suit
+		3d automatic
+			3h !h
+			3s !s
+			3n both minors
+			4c clubs
+			4d diamonds
+	3d invitational with both supports
+		3h no extras, !h
+		3s no extras, !s
+		4h extras, !h
+		4s extras, !s
+	3h pass or correct
+		pass !h
+		3s !s
+	3s to play
+	3n to play
+	4c "bid 4!d with !h and 4!h with !s"
+	4d "bid Your suit"
+	4h to play
+	4s to play
 2h 6-10 HCP, 5+!h and 5+!c/5+!d
+	2s to play
+	2n strong, asking
+		3c !c
+			3d slam try, 3+!c
+			3h invitational, 3+!h
+			3s slam try, 3+!h
+			3n to play
+			4c invitational, 3+!c
+		3d !d
+			3h invitational, 3+!h
+			3s slam try, 3+!h
+			3n to play
+			4c slam try, 3+!d
+			4d invitational, 3+!d
+	3c pass or correct
+		pass !c
+		3d !d
+	3d invitational, 3+!h
+		3h rejecting the invite
+		4h accepting the invite
+	3h to play
+	3s strong, 6+!s
+	3n to play
+	4c pass or correct
+		pass !c
+		4d !d
+	4d
+	4h to play
+	4s to play
 2s 6-10 HCP, 5+!s and 5+!c/5+!d
+	2n strong, asking
+		3c !c
+			3d slam try, 3+!c
+			3h slam try, 3+!s
+			3s invitational, 3+!s
+			3n to play
+			4c invitational, 3+!c
+		3d !d
+			3h slam try, 3+!s
+			3s invitational, 3+!s
+			3n to play
+			4c slam try, 3+!d
+			4d invitational, 3+!d
+	3c pass or correct
+		pass !c
+		3d !d
+	3d invitational, 3+!s
+		3s rejecting the invite
+		4s accepting the invite
+	3h strong, 6+!h
+	3s to play
+	3n to play
+	4c pass or correct
+		pass !c
+		4d !d
+	4d
+	4h to play
+	4s to play
 2n 6-10 HCP, 5+!c and 5+!d
+	3c to play
+	3d to play
+	3h strong, asking
+		3s 1255
+		3n 2155
+		4c 1156
+		4d 1165
+		4h 0!h
+		4s 0!s
+	3s invitational, 3+!c or 3+!d
+		3n rejecting the invite
+	3n to play
+	4c to play
+	4d to play
+	4h to play
+	4h to play
 3c preemptive
 3d preemptive
 3h preemptive
