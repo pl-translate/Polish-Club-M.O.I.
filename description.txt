@@ -114,10 +114,51 @@ pass not enough for any opening
 1n 15-17 HCP, 4333 or 4432, or 14-16 HCP 5332
 	2c asking for a 4-card major [Stayman]
 		2d 3-!h, 3-!s
+			pass 8-HCP, 4+!d
+			2h 8-HCP, 4+!h, 4+!s, no more hearts than spades
+			2s 9 HCP, 4!h, 5!s
+			2n 9 HCP, 4-!h, 4-!s
+			3c 9+ HCP, 5+!c
+			3d 9+ HCP, 5+!d
+			3h 10+ HCP, 4!h, 5!s
+			3s 10+ HCP, 5!h, 4!s
+			3n 10+ HCP, 4-!h, 4-!s
 		2h 4+!h
+			pass 7- HCP, 4!h or 8- HCP, 3!h
+			2s 
+			2n 9 HCP, 3-!h, 4!s
+			3c 9+ HCP, 5+!c
+			3d 9+ HCP, 5+!d
+			3h 8 HCP, 4+!h
+			3s  
+			3n 10+ HCP, 3-!h, 4!s
+			4c
+			4d
+			4h
 		2s 4+!s, 3-!h
+			pass 7- HCP, 4!s or 8- HCP, 3!s
+			2n 9 HCP, 4!h, 3-!s
+			3c 9+ HCP, 5+!c
+			3d 9+ HCP, 5+!d
+			3h 
+			3s 8 HCP, 4+!s 
+			3n 10+ HCP, 4!h, 3-!s
+			4c
+			4d
+			4h
+			4s
 	2d 5+!h, 4-!s (but see 2!c, 4!c, 4!h) [Texas Transfer]
 		2h 3-!h or 4333
+			2s 9 HCP, 5!h, 3-!s
+			2n 9 HCP, 5!h, 4!s
+			3c 9+ HCP, 4+!c
+			3d 9+ HCP, 4+!d
+			3h 8 HCP, 6+!h
+			3s 
+			3n 10+ HCP, 5332
+			4c
+			4d
+			4h 9+ HCP, 6+!h
 		2s 2!s, 4+!h
 			2n asking for extras
 				3c extras
@@ -136,6 +177,16 @@ pass not enough for any opening
 		3h 2!c, 4+!h, a bad hand
 	2h 5+!s (but see 2!c, 4!d, 4!s) [Texas Transfer]
 		2s 3-!s or 4333
+			2n 9 HCP, 5!s
+			3c 9+ HCP, 4+!c
+			3d 9+ HCP, 4+!d
+			3h 8 HCP, 5!h, 5!s
+			3s 8 HCP, 6+!s
+			3n 10+ HCP, 5332
+			4c
+			4d
+			4h
+			4s 9+ HCP, 6+!s
 		2n 2!h, 4+!s
 			3c asking for extras
 				3d extras
@@ -154,7 +205,14 @@ pass not enough for any opening
 		3s 2!d, 4+!s, a bad hand
 	2s 6+!c, 4-!h, 4-!s (but see 2!c)
 		2n extras
+			3c to play
+			3d slam try, 1-!d
+			3h slam try, 1-!h
+			3s slam try, 1-!s
 		3c no extras
+			3d slam try, 1-!d
+			3h slam try, 1-!h
+			3s slam try, 1-!s
 	2NT 9 HCP, 4432 or 4333 or 8 HCP 5422 or 5332, in any case 3-!h, 3-!s
 		pass rejecting invite
 		3h accepting invite, 5!h 
@@ -162,6 +220,10 @@ pass not enough for any opening
 		3n accepting invite, 4-!h, 4-!s
 	3c 6+!d, 4-!h, 4-!s (but see 2!c, 3!d)
 		3d automatic
+			3h slam try, 1-!h
+			3s slam try, 1-!s
+			3n slam try, not forcing, 1-!c
+			4c slam try, 1-!c
 	3d 8 HCP, 6+!d
 	3h 1-!h, 3-!s, 54+ in !c and !d [5431 Convention]
 	3s 1-!s, 3-!h, 54+ in !c and !d [5431 Convention]
