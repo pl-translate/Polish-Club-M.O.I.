@@ -370,7 +370,7 @@ pass not enough for any opening
 	4c to play
 	4d to play
 	4h to play
-	4h to play
+	4s to play
 3c preemptive
 3d preemptive
 3h preemptive
