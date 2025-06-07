@@ -4,17 +4,18 @@ pass not enough for any opening
 	1d 1) 0-6 HCP, any distribution 2) 7-11 HCP, 5+4+ in !d and !c, 3-!h, 3-!s 3) 7-11 HCP, 6+!c or 6+!d, 3-!h, 3-!s 4) 16+ HCP, 4-!c, 4-!d, 3-!h, 3-!s
 		1h 12-17 HCP, 3!h and 3-!s or 4!h, or 18+ HCP, 4+!h, 4-!s (but see 1NT, 2!d, 2!h, 2NT, 3!h)
 		1s 12-17 HCP, 3!s and 2-!h or 4!s and 3-!h, or 18+ HCP, 4+!s, 4 or 5!h only possible with 5+!s (but see 1NT, 2!d, 2!s, 2NT, 3!h, 3!s)
-		1n
-		2c
-		2d
-		2h
-		2s
-		2n
-		3c
-		3d
-		3h
-		3s
-		3n
+		1n 1n 18-20 HCP, 4333 or 4432, or 17-19 HCP 5332
+		2c 15+ HCP, 5+!c (but see 1!h, 1!s, 1NT, 2!d, 2NT, 3!c, 3!h, 3!s, 4!c)
+		2d any game forcing hand (but see 3!h, 3!s, 4!c)
+		2h almost a 2!d bid, 6+!h
+		2s almost a 2!d bid, 6+!s
+		2n 21-22 HCP, 4432 or 4333, or 20-22 5332, or similar shapes with not better bid
+		3c almost a 2!d bid, 6+!c
+		3d 18+ HCP, 6+!d (but see 2!d, 2NT)
+		3h game forcing, 5+!h and 5+!c or 5+!d or 5+!s
+		3s game forcing, 5!s and 5+!c or 5+!d
+		3n to play, usually with some long suit
+		4c game forcing, 5+!c and 5+!d
 	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!d, 2!h)
 	1s 7+ HCP, 4+!s, 4 or 5!h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
 	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s 
