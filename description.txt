@@ -519,7 +519,7 @@ pass not enough for any opening
 		5d 0 or 3 keycards
 		5h 2 keycards, no trump queen
 		5s 2 keycards, the trump queen and no side kings
-		5n 2 keycards, the trump queen and either the lowest of the side kings or two other two
-		6c 2 keycards, the trump queen and either the middle of the side kings or two other two
+		5n 2 keycards, the trump queen and either the lowest of the side kings or the other two
+		6c 2 keycards, the trump queen and either the middle of the side kings or the other two
 		6d 2 keycards, the trump queen and either the highest of the side kings or the other two
 		6h 2 keycards, the trump queen and all side kings
