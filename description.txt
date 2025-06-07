@@ -17,8 +17,113 @@ pass not enough for any opening
 		3n to play, usually with some long suit
 		4c game forcing, 5+!c and 5+!d
 	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!d, 2!h)
+		1s 4+!s, 3-!h and 4-!c unless 18+ HCP (but see 2!d, 2!h, 2!s, 2NT)
+			1NT 7-11 HCP, 4!h, 3-!s, 4-!d
+			2c 11 HCP or 7-10 HCP, 5+!d, 4!h (but see 3!c, 3!d, 3!h) [Two-Way Checkback]
+				2d 12-14 HCP
+					pass 7-10 HCP, 5+!d, 4!h
+					2h 11 HCP, 5!h
+					2s 11 HCP, 4!s
+					2n 11 HCP, 4!h, 3-!s
+					3c 11 HCP, 6+!c, 4!h
+					3d 11 HCP, 6+!d, 4!h
+			2d game forcing [Two-Way Checkback]
+			2h 7-10 HCP, 5+!h, 3-!s
+			2s 7-10 HCP, 4!s
+			2n 7-10 HCP, 6+!c, 4!h
+				3c 12-14 HCP
+			3c 11 HCP, 5+!c, 5!h
+			3d 11 HCP, 5+!d, 5!h
+			3h 11 HCP, 6+!h
+			3s 
+			3n to play
+		1NT 12-14 HCP, 3-h, 3-s
+			2c 11 HCP or 7-10 HCP, 5+!d, 4!h (but see 3!c, 3!d, 3!h) [Two-Way Checkback]
+				2d 12-14 HCP
+					pass 7-10 HCP, 5+!d, 4!h
+					2h 11 HCP, 5!h
+					2s 
+					2n 11 HCP, 4!h, 3-!s
+					3c 11 HCP, 6+!c, 4!h
+					3d 11 HCP, 6+!d, 4!h
+			2d game forcing [Two-Way Checkback]
+			2h 7-10 HCP, 5+!h
+			2s 
+			2n 7-10 HCP, 6+!c, 4!h
+				3c 12-14 HCP
+			3c 11 HCP, 5+!c, 5!h
+			3d 11 HCP, 5+!d, 5!h
+			3h 11 HCP, 6+!h
+			3s 
+			3n to play
+		2c 15+ HCP, 5+!c, not 5332
+		2d 18+ HCP, 3+!h, 4-!s unless 4+!h 
+		2h 12-14 HCP, 4!h
+		2s 18+ HCP, 5+!d, 4!s
+		2n 18+ HCP, 2-!h, 4!s and 4-!c and 4-!d or 3-!s (but see 2!c, 2!s, 3!c, 3!d)
+		3c 18+ HCP, 5+!d, 4+!c
+		3d 18+ HCP, 6+!d
+		3h 15-16 HCP, 4!h
+		3s
+		3n
+		4c
+		4d
+		4h 17 HCP, 4!h
 	1s 7+ HCP, 4+!s, 4 or 5!h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
+		1NT 12-14 HCP, 3-s
+			2c 11 HCP or 7-10 HCP, 5+!d, 4!s (but see 2!h, 3!c, 3!d, 3!h) [Two-Way Checkback]
+				2d 12-14 HCP
+					pass 7-10 HCP, 5+!d, 4!h
+					2h 11 HCP, 4!h
+					2s 11 HCP, 5!s
+					2n 11 HCP, 4!s, 3-!h
+					3c 11 HCP, 6+!c, 4!s
+					3d 11 HCP, 6+!d, 4!s
+			2d game forcing [Two-Way Checkback]
+			2h 11 HCP, 5!h, 5!s
+			2s 7-10 HCP, 5+!s, 3-!h
+			2n 7-10 HCP, 6+!c, 4!s
+				3c 12-14 HCP
+			3c 11 HCP, 5+!c, 5!h
+			3d 11 HCP, 5+!d, 5!h
+			3h 
+			3s 11 HCP, 6+!s
+			3n to play
+		2c 15+ HCP, 5+!c, not 5332
+		2d 18+ HCP, 3+!s, 4-!h unless 4+s 
+		2h 18+ HCP, 5+!h
+		2s 12-14 HCP, 4!s
+		2n 18+ HCP, 2-!s (but see 2!c, 2!h, 3!c, 3!d)
+		3c 18+ HCP, 5+!d, 4+!c
+		3d 18+ HCP, 6+!d
+		3h 18+ HCP, 5+!d, 4!h
+		3s 15-16 HCP, 4!s
+		3n
+		4c
+		4d
+		4h
+		4s 17 HCP, 4!s
 	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s 
+		2c 15+ HCP, 5+!c, not 5332
+			2d not forcing, 5!d
+			2h game forcing, values in !h
+			2s game forcing, values in !s
+			2n game forcing, no values in !h and !s
+			3c not forcing, 4-!d
+		2d 18+ HCP, asking
+			2h 3244
+			2s 2344
+			2n 3334 or 3343
+			3c 5!c
+			3d 5!d
+		2h 18+ HCP, 5+!h
+		2s 18+ HCP 5+!s
+		2n 15-17 HCP, 4414	
+		3c 
+		3d 
+		3h 
+		3s 
+		3n to play
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 12+ HCP, 5+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
@@ -31,7 +136,37 @@ pass not enough for any opening
 	3n 13-15 HCP, 4333 or 4432, 3-!h, 3-!s
 1d 12-17 HCP, 5+ !d or 4441 with 4!d or 12-14 HCP 4!d5!c, in any case 4-!h, 4-!s (but see 1NT)
 	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!h)
+		1s 4!s, 3-!h
+		1n 12-13 HCP, 5332
+		2c 12-14 HCP, 4+!c, 3-!h, 3-!s (but see 3!c)
+		2d 12-14 HCP, 6+!d, 3-!h, 3-!s
+		2h 12-14 HCP, 4!h
+		2s 15-17 HCP, 6+!d, 2-!h, bad hand to play NT
+		2n 15-17 HCP, 6+!d, 2-!h, good hand to play NT
+		3c 15-17 HCP, 5!c
+		3d 15-17 HCP, 6+!d, 3!h
+		3h 15-16 HCP, 4!h
+		3s
+		3n
+		4c
+		4d
+		4h 17 HCP, 4!h
 	1s 7+ HCP, 4+!s, 4-5!h possible only with 5+!s (but see 2!c, 2!h, 2!s)
+		1n 12-14 HCP, 3-!s, 3-!c, 5!d
+		2c 12-14 HCP, 4+!c, 3-!s (but see 3!c)
+		2d 12-14 HCP, 6+!d, 3-!s
+		2h 15-17 HCP, 4!h
+		2s 12-14 HCP, 4!s
+		2n 15-17 HCP, 6+!d, 2-!h
+		3c 15-17 HCP, 5!c
+		3d 15-17 HCP, 6+!d, 3!h
+		3h 
+		3s 15-16 HCP, 4!s
+		3n
+		4c
+		4d
+		4h
+		4s 17 HCP, 4!s
 	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s (but see 2!d)
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 10+ HCP, 4+!d, 4-!h, 4-!s
@@ -377,3 +512,6 @@ pass not enough for any opening
 3h preemptive
 3s preemptive
 3n AKQJxxx in !c of !d, no As, Ks or Qs aside [Gambling]
+
+@Slam bidding
+@!4n Blackwood
