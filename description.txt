@@ -14,24 +14,62 @@ pass not enough for any opening
 	3d
 	3h
 	3s
-	3n 13-15 HCP, 4333 or 4432 or 12-15 HCP, 5332, in any case 3-!h, 3-!s
+	3n 13-15 HCP, 4333 or 4432, 3-!h, 3-!s
 1d 12-17 HCP, 5+ !d or 4441 with 4!d or 12-14 HCP 4!d5!c, in any case 4-!h, 4-!s (but see 1NT)
-	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!d, 2!h)
-	1s 7+ HCP, 4+!s, 4 or 5 !h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
-	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s 
+	1h 7+ HCP, 4+!h, 4-!s (but see 2!c, 2!h)
+	1s 7+ HCP, 4+!s, 4-5!h possible only with 5+!s (but see 2!c, 2!h, 2!s)
+	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s (but see 2!d)
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
-	2d 12+ HCP, 5+!d, 4-!h, 4-!s
+	2d 10+ HCP, 4+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
 	2s 4-8 HCP, 6+!s
-	2n 12 HCP, 4333 or 4432 or 11 HCP, 5332, in any case 3-!h, 3-!s
+	2n 11 HCP, 4333 or 4432 or 10 HCP, 5332 with 5!c, in any case 3-!h, 3-!s
 	3c 
 	3d
 	3h
 	3s
-	3n 13-15 HCP, 4333 or 4432 or 12-15 HCP, 5332, in any case 3-!h, 3-!s
+	3n 12-15 HCP, 4333 or 4432, 3-!h, 3-!s
 1h 12-17 HCP, 5+!h, 4-!s (but see 1NT)
+	1s 7+ HCP, 4+!s, 2-!h (but see 2!c)
+	1n 7-11 HCP, 2-!h, 3-!s
+	2c 12+ HCP, 4-!s
+	2d 11 HCP, 3+!h
+	2h 7-10 HCP, 3+!h
+	2s 
+	2n
+	3c 
+	3d
+	3h
+	3s
+	3n
 1s 12-17 HCP, 5+!s (but see 1NT)
+	1n 7-11 HCP, 2-!s
+	2c 12+ HCP, 4-!h
+	2d 12+ HCP, 5+!h
+	2h 11 HCP, 3+!h
+	2s 7-10 HCP, 3+!s
+	2n 
+	3c 
+	3d
+	3h
+	3s
+	3n
 1n 15-17 HCP, 4333 or 4432, or 14-16 HCP 5332
+	2c asking for a 4-card major [Stayman]
+	2d 5+!h, 4-!s (but see 2!c, 4!c, 4!h) [Texas Transfer]
+	2h 5+!s (but see 2!c, 4!d, 4!s) [Texas Transfer]
+	2s 6+!c, 4-!h, 4-!s (but see 2!c)
+	2NT 9HCP, 4432 or 4333 or 8HCP 5422 or 5332, in any case 3-!h, 3-!s
+	3c 6+!d, 4-!h, 4-!s (but see 2!c)
+	3d 8HCP, 6+!d
+	3h 1-!h, 3-!s, 54+ in !c and !d [5431 Convention]
+	3s 1-!s, 3-!h, 54+ in !c and !d [5431 Convention]
+	3n 10+HCP, 4432 or 4333 or 9+HCP 5422 or 5332 or 6322 or 7222, in any case 3-!h, 3-!s (
+	4c 8+HCP, 6+!h
+	4d 8+HCP, 6+!s
+	4h 8+HCP, 6+!h
+	4s 8+HCP, 6+!s
+	4N 17HCP, 4432 or 4333, or 16HCP 5422 or 5332
 2c 12-14 HCP, 5+!c and 4!h/4!s or 6+!c [Precision]
 2d 6-10 HCP, 6!h or 6!s [Minimulti]
 2h 6-10 HCP, 5+!h and 5+!c/5+!d
