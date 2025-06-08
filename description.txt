@@ -114,8 +114,12 @@ pass not enough for any opening
 		2n 21-22 HCP, 4432 or 4333, or 20-22 5332, or similar shapes with no better bid
 			3c asking for 4-card and 5-card majors [Puppet Stayman]
 				3d 4!h or 4!s
-					3h 4!s
-					3s 4!h
+					3h 3-!h, 4!s
+						3n 3-!s
+						4s 4!s
+					3s 4!h, 3-!s
+						3n 3-!h
+						4h 4!h
 					3n 3-!h, 3-!s
 					4c 4!h, 4!s
 				3h 5!h
