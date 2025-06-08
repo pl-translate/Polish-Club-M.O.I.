@@ -438,6 +438,66 @@ pass not enough for any opening
 	4s 8+ HCP, 6+!s
 	4n 17 HCP, 4432 or 4333, or 16 HCP 5422 or 5332
 2c 12-14 HCP, 5+!c and 4!h/4!s or 6+!c [Precision]
+	2d strong, asking
+		2h 4!h (but see 3!h)
+			2s 12+ HCP, asking
+				2n 
+				3c 6+!c
+				3d 1435
+				3h 0445
+				3s 3415
+				3n 2425
+			2n 11 HCP, 3-h, 2-!c
+			3c 11 HCP, 3-h, 3+!c
+			3d
+			3h 11 HCP, 4!h
+			3s
+			3n to play
+		2s 4!s (but see 3!s)
+			2n 12+ HCP, asking
+				3c 6+!c
+				3d 4135
+				3h 4315
+				3s 4045
+				3n 4225
+			3c 11 HCP, 3-s, 3+c
+			3d
+			3h
+			3s 11 HCP, 4!s
+			3n to play
+		2n 6322 or 7222
+			3c 11 HCP, 3+!c
+			3d 12+ HCP, asking
+				3h 3!h
+				3s 3!s
+				3n 3!d or 7222
+			3h 12+ HCP, 6+!h
+			3s 12+ HCP, 6+!s
+			3n to play
+		3c 6+!c, 3-!h, 3-!s, some shortness
+			3d 12+ HCP, asking
+				3h 1-!h
+				3s 1-!s
+				3n 1-!d
+			3h 12+ HCP, 6+!h
+			3s 12+ HCP, 6+!s
+			3n to play
+		3d extras, 6!c, 4!d
+		3h extras, 6!c, 4!h
+		3s extras, 6!c, 4!s
+	2h not forcing, 5+!h
+	2s not forcing, 5+!s
+	2n 7-10, 3+!c, or 12+ HCP, 5+5+ in some two suits other than clubs
+		3c automatic
+			pass 7-10, 3+!c
+			3d 12+ HCP, 5+!d5+!h
+			3h 12+ HCP, 5+!h5+!s
+			3s 12+ HCP, 5+!d5+!s
+	3c 11 HCP, 3+!c
+	3d 12+ HCP, 6!d
+	3h 11HCP, 6!h
+	3s 11HCP, 6!s
+	3n to play
 2d 6-10 HCP, 6!h or 6!s [Minimulti]
 	2h pass or correct
 		pass !h
