@@ -623,18 +623,57 @@ pass not enough for any opening
 	4h to play
 	4s to play
 3c preemptive
+	3d
+	3h game forcing, 6+!h
+	3s game forcing, 6+!s
+	3n to play
+	4c to play
 3d preemptive
+	3h game forcing, 6+!h
+	3s game forcing, 6+!s
+	3n to play
+	4c
+	4d to play
 3h preemptive
+	3s game forcing, 6+!s
+	3n to play
+	4c
+	4d
+	4h to play
 3s preemptive
+	3n to play
+	4c
+	4d
+	4h to play
+	4s to play
 3n AKQJxxx in !c of !d, no As, Ks or Qs aside [Gambling]
+	pass let's try
+	4c pass or correct
+		pass !c
+		4d !d
 
-@Slam bidding
-	4n Blackwood
-		5c 1 or 4 keycards
-		5d 0 or 3 keycards
-		5h 2 keycards, no trump queen
-		5s 2 keycards, the trump queen and no side kings
-		5n 2 keycards, the trump queen and either the lowest of the side kings or the other two
-		6c 2 keycards, the trump queen and either the middle of the side kings or the other two
-		6d 2 keycards, the trump queen and either the highest of the side kings or the other two
-		6h 2 keycards, the trump queen and all side kings
+@ Blackwood
+	@ With agreed on suit, bidding towards a slam
+		4n Blackwood
+			5c 1 or 4 keycards
+			5d 0 or 3 keycards
+			5h 2 keycards, no trump queen
+			5s 2 keycards, the trump queen and no side kings
+			5n 2 keycards, the trump queen and either the lowest of the side kings or the other two
+			6c 2 keycards, the trump queen and either the middle of the side kings or the other two
+			6d 2 keycards, the trump queen and either the highest of the side kings or the other two
+			6h 2 keycards, the trump queen and all side kings
+@ Non serious 3!s/3NT and cuebids
+	@ In the following we assume that after 3!h or 3!s is bid this suit is agreed on
+		3h 
+			3s no extras, not a terrible hand [Non Serious]
+			3n extras, spades cuebid
+			4c extras, clubs cuebid
+			4d extras, diamonds cuebid
+			4h a terrible hand
+		3s
+			3n no extras, not a terrible hand [Non Serious]
+			4c extras, clubs cuebid
+			4d extras, diamonds cuebid
+			4h extras, hearts cuebid
+			4s a terrible hand
