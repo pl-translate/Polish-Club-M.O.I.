@@ -137,9 +137,6 @@ pass not enough for any opening
 			2h 4-6 HCP
 				2s 5+!s (but see 2NT)
 				2n balanced or close to balanced
-				3c 6+!c (but see 2NT) 
-				3d 6+!d (but see 2NT)
-				3h 5+!h (but see 2NT)
 					3c asking for 4-card and 5-card majors [Puppet Stayman]
 						3d 4!h or 4!s
 							3h 3-!h, 4!s
@@ -157,29 +154,32 @@ pass not enough for any opening
 					3h 5+!s
 					3s 
 					3n to play
+				3c 6+!c (but see 2NT) 
+				3d 6+!d (but see 2NT)
+				3h 5+!h (but see 2NT)
 			2s 0-3 HCP
 				2n balanced or close to balanced
+					3c asking for 4-card and 5-card majors [Puppet Stayman]
+						3d 4!h or 4!s
+							3h 3-!h, 4!s
+								3n 3-!s
+								4s 4!s
+							3s 4!h, 3-!s
+								3n 3-!h
+								4h 4!h
+							3n 3-!h, 3-!s
+							4c 4!h, 4!s
+						3h 5!h
+						3s 5!s
+						3n 3-!h, 3-!s
+					3d 5+!h
+					3h 5+!s
+					3s 
+					3n to play
 				3c 6+!c (but see 2NT)
 				3d 6+!d (but see 2NT)
 				3h 5+!h (but see 2NT)
 				3s 5+!s (but see 2NT)
-					3c asking for 4-card and 5-card majors [Puppet Stayman]
-						3d 4!h or 4!s
-							3h 3-!h, 4!s
-								3n 3-!s
-								4s 4!s
-							3s 4!h, 3-!s
-								3n 3-!h
-								4h 4!h
-							3n 3-!h, 3-!s
-							4c 4!h, 4!s
-						3h 5!h
-						3s 5!s
-						3n 3-!h, 3-!s
-					3d 5+!h
-					3h 5+!s
-					3s 
-					3n to play
 			2n 7-11 HCP, 1255 or 2155
 			3c 7-11 HCP, 6+!c
 			3d 7-11 HCP, 6+!d
