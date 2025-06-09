@@ -176,7 +176,17 @@ pass not enough for any opening
 			3s 
 			3n to play
 		2c 15+ HCP, 5+!c, not 5332
-		2d 18+ HCP, 3+!h, 4-!s unless 4+!h 
+		2d 18+ HCP, 3+!h, 4-!s unless 4+!h [Odwrotka]
+			2h 10+ HCP
+			2s 7-9 HCP, 4333 or 4432 or 4441
+			2n 7-9 HCP, 5!h, no 5332
+			3c 7-9 HCP, 4!h, 5+!c
+			3d 7-9 HCP, 4!h, 5+!d
+			3h 7-9 HCP, 5332
+			3s 7-9 HCP, 6+!h, 1-!s
+			3n 7-9 HCP, 6+!h, no shortness
+			4c 7-9 HCP, 6+!h, 1-!c
+			4d 7-9 HCP, 6+!h, 1-!d
 		2h 12-14 HCP, 4!h
 		2s 18+ HCP, 5+!d, 4!s
 		2n 18+ HCP, 2-!h, 4!s and 4-!c and 4-!d or 3-!s (but see 2!c, 2!s, 3!c, 3!d)
@@ -209,7 +219,17 @@ pass not enough for any opening
 			3s 11 HCP, 6+!s
 			3n to play
 		2c 15+ HCP, 5+!c, not 5332
-		2d 18+ HCP, 3+!s, 4-!h unless 4+!s 
+		2d 18+ HCP, 3+!s, 4-!h unless 4+!s [Odwrotka]
+			2h 10+ HCP
+			2s 7-9 HCP, 4333 or 4432 or 4441
+			2n 7-9 HCP, 5!s, no 5332
+			3c 7-9 HCP, 4!s, 5+!c
+			3d 7-9 HCP, 4!s, 5+!d
+			3h 7-9 HCP, 6+!s, 1-!h
+			3s 7-9 HCP, 5332
+			3n 7-9 HCP, 6+!s, no shortness
+			4c 7-9 HCP, 6+!s, 1-!c
+			4d 7-9 HCP, 6+!s, 1-!d
 		2h 18+ HCP, 5+!h
 		2s 12-14 HCP, 4!s
 		2n 18+ HCP, 2-!s (but see 2!c, 2!h, 3!c, 3!d)
@@ -246,7 +266,7 @@ pass not enough for any opening
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 12+ HCP, 5+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
-	2s 4-8 HCP, 6+!s
+	2s 
 	2n 12 HCP, 4333 or 4432 or 11 HCP, 5332, in any case 3-!h, 3-!s
 	3c 
 	3d
@@ -345,7 +365,7 @@ pass not enough for any opening
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 10+ HCP, 4+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
-	2s 4-8 HCP, 6+!s
+	2s 
 	2n 11 HCP, 4333 or 4432 or 10 HCP, 5332 with 5!c, in any case 3-!h, 3-!s
 	3c 
 	3d
