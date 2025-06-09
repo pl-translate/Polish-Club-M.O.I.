@@ -16,8 +16,8 @@ pass not enough for any opening
 			1NT 5-6HCP, 4-!c, 4-!d, 4-!h, 3-!s
 			2c 5-9 HCP, 5+!c, 4-!d, 3-!h, 3-!s
 			2d 5-9 HCP, 5+!d, 3-!h, 3-!s
-			2h 4-6 HCP, 5+!h, 4-!h
-			2s 4-6 HCP, 4+!s
+			2h 4-6 HCP, 5+!h, 4-!s
+			2s 4-6 HCP, 4+!s (but see 2!h)
 			2n 10-11 HCP, 54+ !c and !d
 			3c 10-11 HCP, 6+!c, 3-!d
 			3d 10-11 HCP, 3-!c, 6+!d
@@ -837,3 +837,4 @@ pass not enough for any opening
 @ Recent changes
 	@ The idea is that I'm gonna post here what I've updated, so that my moi knows what's moiing - we'll see how it goes
 		@ Updated responses to 1!c - 1!h/1!s - 2!d
+		@ Updated responses to 1!c - 1!d - 1!h/1!s
