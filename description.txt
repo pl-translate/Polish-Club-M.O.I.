@@ -816,3 +816,6 @@ pass not enough for any opening
 			4d extras, diamonds cuebid
 			4h extras, hearts cuebid
 			4s a terrible hand
+@ Recent changes
+	@ The idea is that I'm gonna post here what I've updated, so that my moi knows what's moiing - we'll see how it goes
+		@ Updated responses to 1!c - 1!h/1!s - 2!d
