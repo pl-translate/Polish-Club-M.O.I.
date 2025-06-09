@@ -9,6 +9,9 @@ pass not enough for any opening
 			2d 5-9 HCP, 5+!d, 3-!h, 3-!s
 			2h 4-6 HCP, 4+!h (but see 1!s)
 			2s 10-11 HCP, 54+ !c and !d
+				2n asking for a longer minor
+					3c 5+!c
+					3d 5+!d
 			2n 16+ HCP
 			3c 10-11 HCP, 6+!c, 3-!d
 			3d 10-11 HCP, 3-!c, 6+!d
