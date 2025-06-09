@@ -209,7 +209,7 @@ pass not enough for any opening
 			3s 11 HCP, 6+!s
 			3n to play
 		2c 15+ HCP, 5+!c, not 5332
-		2d 18+ HCP, 3+!s, 4-!h unless 4+s 
+		2d 18+ HCP, 3+!s, 4-!h unless 4+!s 
 		2h 18+ HCP, 5+!h
 		2s 12-14 HCP, 4!s
 		2n 18+ HCP, 2-!s (but see 2!c, 2!h, 3!c, 3!d)
