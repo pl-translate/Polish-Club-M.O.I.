@@ -135,8 +135,11 @@ pass not enough for any opening
 		2c 15+ HCP, 5+!c (but see 1!h, 1!s, 1NT, 2!d, 2NT, 3!c, 3!h, 3!s, 4!c)
 		2d any game forcing hand (but see 3!h, 3!s, 4!c) [Acol]
 			2h 4-6 HCP
-				2s 5+ !s
+				2s 5+!s (but see 2NT)
 				2n balanced or close to balanced
+				3c 6+!c (but see 2NT) 
+				3d 6+!d (but see 2NT)
+				3h 5+!h (but see 2NT)
 					3c asking for 4-card and 5-card majors [Puppet Stayman]
 						3d 4!h or 4!s
 							3h 3-!h, 4!s
@@ -156,6 +159,10 @@ pass not enough for any opening
 					3n to play
 			2s 0-3 HCP
 				2n balanced or close to balanced
+				3c 6+!c (but see 2NT)
+				3d 6+!d (but see 2NT)
+				3h 5+!h (but see 2NT)
+				3s 5+!s (but see 2NT)
 					3c asking for 4-card and 5-card majors [Puppet Stayman]
 						3d 4!h or 4!s
 							3h 3-!h, 4!s
