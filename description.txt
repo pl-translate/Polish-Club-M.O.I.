@@ -12,6 +12,8 @@ pass not enough for any opening
 				2n asking for a longer minor
 					3c 5+!c
 					3d 5+!d
+				3c not forcing
+				3d not forcing
 			2n 16+ HCP
 			3c 10-11 HCP, 6+!c, 3-!d
 			3d 10-11 HCP, 3-!c, 6+!d
@@ -22,6 +24,8 @@ pass not enough for any opening
 			2h 4-6 HCP, 5+!h, 4-!s
 			2s 4-6 HCP, 4+!s (but see 2!h)
 			2n 10-11 HCP, 54+ !c and !d
+				3c not forcing
+				3d not forcing
 			3c 10-11 HCP, 6+!c, 3-!d
 			3d 10-11 HCP, 3-!c, 6+!d
 			3h 16+ HCP
