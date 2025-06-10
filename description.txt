@@ -276,7 +276,7 @@ pass not enough for any opening
 		4d
 		4h 17 HCP, 4!h
 	1s 7+ HCP, 4+!s, 4 or 5!h possible only with 5+!s (but see 2!c, 2!d, 2!h, 2!s)
-		1NT 12-14 HCP, 3-s
+		1NT 12-14 HCP, 3-!s
 			2c 11 HCP or 7-10 HCP, 5+!d, 4!s (but see 2!h, 3!c, 3!d, 3!h) [Two-Way Checkback]
 				2d 12-14 HCP
 					pass 7-10 HCP, 5+!d, 4!s
