@@ -265,6 +265,15 @@ pass not enough for any opening
 			4c 7-9 HCP, 6+!h, 1-!c
 			4d 7-9 HCP, 6+!h, 1-!d
 		2h 12-14 HCP, 4!h
+			2s at least invitational, !s values
+			2n at least invitational, choosing not the specify the invite
+			3c at least invitational, !c values
+			3d at least invitational, !d values
+			3h invitational, 5+!h
+			3s splinter
+			3n 
+			4c splinter
+			4d splinter
 		2s 18+ HCP, 5+!d, 4!s
 		2n 18+ HCP, 2-!h, 4!s and 4-!c and 4-!d or 3-!s (but see 2!c, 2!s, 3!c, 3!d)
 		3c 18+ HCP, 5+!d, 4+!c
@@ -309,6 +318,15 @@ pass not enough for any opening
 			4d 7-9 HCP, 6+!s, 1-!d
 		2h 18+ HCP, 5+!h
 		2s 12-14 HCP, 4!s
+			2n at least invitational, choosing not to specify the invite
+			3c at least invitational, !c values
+			3d at least invitational, !d values
+			3h at least invitational, !h values
+			3s invitational, 5+!s
+			3n
+			4c splinter
+			4d splinter
+			4h splinter
 		2n 18+ HCP, 2-!s (but see 2!c, 2!h, 3!c, 3!d)
 		3c 18+ HCP, 5+!d, 4+!c
 		3d 18+ HCP, 6+!d
