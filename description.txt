@@ -402,16 +402,57 @@ pass not enough for any opening
 			3s splinter
 			3n to play
 		2d 12-14 HCP, 6+!d, 3-!h, 3-!s
+			2h not forcing, 6+!h
+			2s game forcing, !s values
+			2n invitational
+			3c game forcing, !c values
+			3d invitational
+			3h invitational, 6+!h
+			3s splinter
+			3n to play
+			4c splinter
 		2h 12-14 HCP, 4!h
+			2s at least invitational, !s values
+			2n at least invitational, choosing not the specify the invite
+			3c at least invitational, !c values
+			3d at least invitational, !d values
+			3h invitational, 5+!h
+			3s splinter
+			3n 
+			4c splinter
+			4d splinter
 		2s 15-17 HCP, 6+!d, 2-!h, bad hand to play NT
+			2n not forcing
+			3c game forcing, !c values
+			3d not forcing
+			3h game forcing, 6+!h
+			3s game forcing, !s values
+			3n to play
 		2n 15-17 HCP, 6+!d, 2-!h, good hand to play NT
+			3c game forcing, !c values
+			3d not forcing
+			3h game forcing, 6+!h
+			3s game forcing, !s values
+			3n to play
 		3c 15-17 HCP, 5!c
+			3d not forcing
+			3h game forcing, 6+!h
+			3s game forcing, asking for a !s stopper [4th suit]
+			3n to play
 		3d 15-17 HCP, 6+!d, 3!h
+			3h not forcing
+			3s game forcing, !s values
+			3n to play
 		3h 15-16 HCP, 4!h
-		3s
-		3n
-		4c
-		4d
+			3s weak slam try [Non serious]
+			3n strong slam try, !s cue bid
+			4c strong slam try, !c cue bid
+			4d strong slam try, !d cue bid
+			4h to play
+		3s splinter
+		3n to play
+		4c splinter
+		4d 
 		4h 17 HCP, 4!h
 	1s 7+ HCP, 4+!s, 4-5!h possible only with 5+!s (but see 2!c, 2!h, 2!s)
 		1n 12-14 HCP, 3-!s, 3-!c, 5!d
@@ -434,20 +475,83 @@ pass not enough for any opening
 			3s 11 HCP, 6+!s
 			3n to play
 		2c 12-14 HCP, 4+!c, 3-!s (but see 3!c)
+			2d not forcing, 2+!d
+			2h at least invitational, asking about a !h stopper or 3!s [4th suit] 
+			2s not forcing, 6+!s
+			2n invitational
+			3c invitational, 4+!c
+			3d invitational, 4+!d
+			3h invitational, 5+!h, 5+!s
+			3s invitational, 6+!s
+			3n to play
 		2d 12-14 HCP, 6+!d, 3-!s
+			2h game forcing, !h values
+			2s not forcing, 6+!s
+			2n invitational
+			3c game forcing, !c values
+			3d invitational
+			3h invitational, 5+!h, 5+!s
+			3s invitational, 6+!s
+			3n to play
+			4c splinter
 		2h 15-17 HCP, 4!h
+			2s not forcing, 6+!s
+			2n not forcing
+			3c game forcing, asking about a !c stopper or 3!s [4th suit]
+			3d not forcing
+			3h game forcing, 4+!h
+			3s invitational, 6+!s
+			3n to play
+			4c splinter
+			4d splinter
 		2s 12-14 HCP, 4!s
-		2n 15-17 HCP, 6+!d, 2-!h
+			2n at least invitational, choosing not to specify the invite
+			3c at least invitational, !c values
+			3d at least invitational, !d values
+			3h at least invitational, !h values
+			3s invitational, 5+!s
+			3n
+			4c splinter
+			4d splinter
+			4h splinter
+		2n 15-17 HCP, 6+!d, 2-!s
+			3c game forcing, !c values
+			3d not forcing
+			3h game forcing, 5+!h
+			3s game forcing, 6+!s
+			3n to play
 		3c 15-17 HCP, 5!c
-		3d 15-17 HCP, 6+!d, 3!h
-		3h 
+			3d not forcing
+			3h game forcing, asking about a !h stopper 
+			3s game forcing, 6+!s
+			3n to play
+		3d 15-17 HCP, 6+!d, 3!s
+			3h game forcing, 5+!h
+			3s not forcing
+			3n to play
+		3h splinter
 		3s 15-16 HCP, 4!s
-		3n
-		4c
-		4d
+			3n weak slam try [Non serious]
+			4c strong slam try, !c cue bid
+			4d strong slam try, !d cue bid
+			4h strong slam try, !h cue bid
+			4s to play
+		3n to play
+		4c splinter
+		4d 
 		4h
 		4s 17 HCP, 4!s
 	1n 7-11 HCP, 4333 or 4432 or 5332, 3-!h, 3-!s (but see 2!d)
+		2c 4+!c, not 4441 (but see 3!c)
+		2d 12-14 HCP, 6+!d
+		2h 15-17 HCP, 4+!h
+		2s 15-17 HCP, 4+!s
+		2n 15-17 HCP, 6+!d, a bad hand for NT
+		3c 15-17 HCP, 5+!c
+		3d 15-17 HCP, 6+!d, a good hand for NT
+		3h
+		3s
+		3n to play
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
 	2d 10+ HCP, 4+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
@@ -461,15 +565,81 @@ pass not enough for any opening
 1h 12-17 HCP, 5+!h, 4-!s (but see 1NT)
 	1s 7+ HCP, 4+!s, 2-!h (but see 2!c)
 		1n 12-14 HCP, 5332
+			2c any invitational hand or 7-10 HCP, 5+!d, 4!s (but see 3!c, 3!d, 3!s) [Two-way checkback]
+				2d automatic
+					2h
+					2s invitational, 5+!s
+					2n invitational, 5-!c, 5-!d, 4!s 
+					3c invitational, 6+!c, 4!s
+					3d invitational, 6+!d, 4!s
+			2d any game forcing hand [Two-way checkback]
+			2h 
+			2s not forcing, 5+!s 
+			2n 7-10 HCP, 6+!c, 4!s
+			3c invitational, 5+!c, 5+!s
+			3d invitational, 5+!d, 5+!s
+			3h
+			3s invitational, 6+!s
 		2c 4+!c (but see 3!c)
+			2d at least invitational, asking for a !d stopper or 3!s [4th suit]
+			2h not forcing, 2!h
+			2s not forcing, 6+!s
+			2n not forcing
+			3c invitational, 4+!c
+			3d invitational, 5+!d, 5+!s
+			3h
+			3s invitational, 6+!s
+			3n to play
 		2d 4+!d (but see 3!d)
+			2h not forcing, 2!h
+			2s not forcing, 6+!s
+			2n not forcing
+			3c game forcing, asking for a !c stopper or 3!s [4th suit]
+			3d invitational, 4+!d
+			3h
+			3s invitational, 6+!s
+			3n to play
 		2h 12-14 HCP, 6+!h (but see 2!s)
+			2s not forcing, 6+!s
+			2n invitational
+			3c game forcing, !c values
+			3d game forcing, !d values
+			3h invitational
+			3s invitational, 6+!s
+			3n to play
 		2s 12-14 HCP, 4!s
+			2n at least invitational, choosing not to specify the invite
+			3c at least invitational, !c values
+			3d at least invitational, !d values
+			3h at least invitational, !h values
+			3s invitational, 5+!s
+			3n
+			4c splinter
+			4d splinter
+			4h splinter
 		2n 15-16 HCP, 6!h, 2-!s
+			3c game forcing, !c values
+			3d game forcing, !d values
+			3h not forcing
+			3s game forcing, 6+!h
+			3n to play
 		3c 15-17 HCP, 5+!c
+			3d game forcing, asking about a !d stopper or 3!s [4th suit]
+			3h not forcing, 2!h
+			3s game forcing, 6+!s
+			3n to play
 		3d 15-17 HCP, 5+!d
+			3h not forcing, 2!h
+			3s game forcing, 6+!s
+			3n to play
 		3h 15-17 HCP, 6!h, 3!s
+			3s not forcing
+			3n to play
 		3s 15-16 HCP, 4!s
+			3n weak slam try [Non serious]
+			4c strong slam try, !c cue bid
+			4d strong slam try, !d cue bid
+			4h strong slam try, !h cue bid
 		3n 17 HCP, 6!h, 2-!s
 		4c
 		4d
@@ -477,13 +647,55 @@ pass not enough for any opening
 		4s 17 HCP, 4!s
 	1n 7-11 HCP, 2-!h, 3-!s
 		2c 4+!c (but see 3!c)
+			2d not forcing, 6+!d
+			2h not forcing, 2!h
+			2s 
+			2n invitational
+			3c invitational, 4+!c
+			3d invitational, 6+!d
+			3h splinter
+			3s splinter
+			3n to play
 		2d 4+!d (but see 3!d)
+			2h not forcing, 2!h
+			2s 
+			2n invitational
+			3c invitational, 6+!c
+			3d invitational, 4+!d
+			3h splinter
+			3s splinter
+			3n to play
 		2h 12-14 HCP, 6+!h
+			2s
+			2n invitational
+			3c invitational, 6+!c
+			3d invitational, 6+!d
+			3h invitational
 		2s 15-17 HCP, 4!s
+			2n not forcing
+			3c game forcing, !c values
+			3d game forcing, !d values
+			3h not forcing, 2!h
+			3s game forcing, !s values
+			3n to play
 		2n 15-16 HCP, 6!h, bad heart suit
+			3c game forcing, !c values
+			3d game forcing, !d values
+			3h not forcing
+			3s game forcing, !s values
+			3n to play
 		3c 15-17 HCP, 5+!c
+			3d game forcing, !d values
+			3h not forcing, 2!h
+			3s game forcing, !s values
+			3n to play
 		3d 15-17 HCP, 5+!d
+			3h not forcing, 2!h
+			3s game forcing, !s values
+			3n to play
 		3h 15-16 HCP, 6!h, good heart suit
+			3s
+			3n to play
 		3s
 		3n 17 HCP, 6!h
 		4c
@@ -517,14 +729,59 @@ pass not enough for any opening
 1s 12-17 HCP, 5+!s (but see 1NT)
 	1n 7-11 HCP, 2-!s
 		2c 4+!c (but see 3!c)
+			2d not forcing, 6+!d
+			2h not forcing, 6+!h
+			2s not forcing, 2!s
+			2n invitational
+			3c invitational, 4+!c
+			3d invitational, 6+!d
+			3h invitational, 6+!h
+			3s splinter
+			3n to play
 		2d 4+!d (but see 3!d)
+			2h not forcing, 6+!h
+			2s not forcing, 2!s
+			2n invitational
+			3c invitational, 6+!c
+			3d invitational, 4+!d
+			3h invitational, 6+!h
+			3s splinter
+			3n to play
 		2h 4+!h (but see 3!h)
+			2s not forcing, 2!s
+			2n invitational
+			3c invitational, 6+!c
+			3d invitational, 6+!d
+			3h invitational, 4+!h
+			3s splinter
+			3n to play
 		2s 12-14 HCP, 6+!s
+			2n invitatioanl
+			3c invitational, 6+!c
+			3d invitational, 6+!d
+			3h invitational, 6+!h
+			3s invitational, 2!s
+			3n to play
 		2n 15-16 HCP, 6!s, bad spade suit
+			3c game forcing, !c values
+			3d game forcing, !d values
+			3h game forcing, 6+!h
+			3s not forcing, 2!s
+			3n to play
 		3c 15-17 HCP, 5+!c
+			3d game forcing, !d values
+			3h game forcing, 6+!h
+			3s not forcing, 2!s
+			3n to play
 		3d 15-17 HCP, 5+!d
+			3h game forcing, 6+!h
+			3s not forcing, 2!s
+			3n to play
 		3h 15-17 HCP, 5+!h
+			3s not forcing
+			3n to play
 		3s 15-16 HCP, 6!s, good spade suit
+			3n to play
 		3n 17 HCP, 6!s 
 		4c
 		4d
@@ -903,19 +1160,19 @@ pass not enough for any opening
 			6c 2 keycards, the trump queen and either the middle of the side kings or the other two
 			6d 2 keycards, the trump queen and either the highest of the side kings or the other two
 			6h 2 keycards, the trump queen and all side kings
-@ Non serious 3!s/3NT and cuebids
+@ Non serious 3!s/3NT and cue bids
 	@ In the following we assume that after 3!h or 3!s is bid this suit is agreed on
 		3h 
 			3s no extras, not a terrible hand [Non Serious]
-			3n extras, spades cuebid
-			4c extras, clubs cuebid
-			4d extras, diamonds cuebid
+			3n extras, spades cue bid
+			4c extras, clubs cue bid
+			4d extras, diamonds cue bid
 			4h a terrible hand
 		3s
 			3n no extras, not a terrible hand [Non Serious]
-			4c extras, clubs cuebid
-			4d extras, diamonds cuebid
-			4h extras, hearts cuebid
+			4c extras, clubs cue bid
+			4d extras, diamonds cue bid
+			4h extras, hearts cue bid
 			4s a terrible hand
 @ Recent changes
 	@ The idea is that I'm gonna post here what I've updated, so that my moi knows what's moiing - we'll see how it goes
