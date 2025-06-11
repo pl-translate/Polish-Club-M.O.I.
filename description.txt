@@ -1182,4 +1182,4 @@ pass not enough for any opening
 		@ Updated responses to 1!c - 1!d - 1!h/1!s
 		@ Updated responses to 1!c - 1!d - 2!d
 		@ Splinters after 1!h/1!s
-		@ A lot of further bidding responses after 1!d/1!h/1!s - 1!h/1!s/1!n
+		@ A lot of further bidding responses after 1!d/1!h/1!s - 1!h/1!s/1NT
