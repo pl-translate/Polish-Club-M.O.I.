@@ -3,8 +3,8 @@ pass not enough for any opening
 1c 1) 12-14 HCP, 4333 or 4432 or 5!c332 2) 12-17 HCP, 441!d4 3) 15+ HCP, 5+!c, 4-!d, 4-!h, 4-!s 3) 18+, any distribution [Polish Club]
 	1d 1) 0-6 HCP, any distribution 2) 7-11 HCP, 5+4+ in !d and !c, 3-!h, 3-!s 3) 7-11 HCP, 6+!c or 6+!d, 3-!h, 3-!s 4) 16+ HCP, 4-!c, 4-!d, 3-!h, 3-!s
 		1h 12-17 HCP, 3!h and 3-!s or 4+!h (but see 1NT, 2!d, 2!h, 2NT, 3!h)
-			1s 4+HCP, 4-!h, 4+!s, 4!h only possible with 5+!s 
-			1NT 5-6HCP, 4-!c, 4-!d, 3-!h, 3-!s
+			1s 4+ HCP, 4-!h, 4+!s, 4!h only possible with 5+!s 
+			1NT 5-6 HCP, 4-!c, 4-!d, 3-!h, 3-!s
 			2c 5-9 HCP, 5+!c, 4-!d, 3-!h, 3-!s
 			2d 5-9 HCP, 5+!d, 3-!h, 3-!s
 			2h 4-6 HCP, 4+!h (but see 1!s)
@@ -391,7 +391,16 @@ pass not enough for any opening
 			3h 11 HCP, 6+!h
 			3s 
 			3n to play
-		2c 12-14 HCP, 4+!c, 3-!h, 3-!s (but see 3!c)
+		2c 4+!c, 3-!h, 3-!s (but see 3!c)
+			2d not forcing, 2+!d
+			2h not forcing, 6+!h
+			2s game forcing, asking about !s stopper or 3!h [4th suit]
+			2n invitational
+			3c invitational, 4+!c
+			3d invitational, 4+!d
+			3h invitational, 6+!h
+			3s splinter
+			3n to play
 		2d 12-14 HCP, 6+!d, 3-!h, 3-!s
 		2h 12-14 HCP, 4!h
 		2s 15-17 HCP, 6+!d, 2-!h, bad hand to play NT
@@ -495,9 +504,16 @@ pass not enough for any opening
 	2n
 	3c 
 	3d
-	3h
-	3s
-	3n
+	3h preemptive, 4+!h
+	3s 10-11 HCP, 4+!h, some shortness [Minisplinter]
+		3n asking about the shortness
+			4c 1-!c
+			4d 1-!d
+			4h 1-!s
+	3n 12-14 HCP, 4+!h, 1-!s [Splinter]
+	4c 12-14 HCP, 4+!h, 1-!c [Splinter]
+	4d 12-14 HCP, 4+!h, 1-!d [Splinter]
+	4h preemptive, 5+!h
 1s 12-17 HCP, 5+!s (but see 1NT)
 	1n 7-11 HCP, 2-!s
 		2c 4+!c (but see 3!c)
@@ -529,8 +545,16 @@ pass not enough for any opening
 	3c 
 	3d
 	3h
-	3s
-	3n
+	3s preemptive, 4+!s
+	3n 10-11 HCP, 4+!s, some shortness [Minisplinter]
+		4c asking about the shortness
+			4d 1-!d
+			4h 1-!h
+			4s 1-!c
+	4c 12-14 HCP, 4+!s, 1-!c [Splinter]
+	4d 12-14 HCP, 4+!s, 1-!d [Splinter]
+	4h 12-14 HCP, 4+!s, 1-!h [Splinter]
+	4s preemptive, 5+!s
 1n 15-17 HCP, 4333 or 4432, or 14-16 HCP 5332
 	2c asking for a 4-card major [Stayman]
 		2d 3-!h, 3-!s
