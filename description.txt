@@ -1174,8 +1174,12 @@ pass not enough for any opening
 			4d extras, diamonds cue bid
 			4h extras, hearts cue bid
 			4s a terrible hand
+@ Splinters
+	@ In general, the idea is that bidding a suit for the first time with an unnatural jump (usually to the 4 level, also sometimes 3!h or 3!s) promises a shortness in that suit, a 4+card support in the partner's suit and slam intentions (unless other meaning specified)
 @ Recent changes
 	@ The idea is that I'm gonna post here what I've updated, so that my moi knows what's moiing - we'll see how it goes
 		@ Updated responses to 1!c - 1!h/1!s - 2!d
 		@ Updated responses to 1!c - 1!d - 1!h/1!s
 		@ Updated responses to 1!c - 1!d - 2!d
+		@ Splinters after 1!h/1!s
+		@ A lot of further bidding responses after 1!d/1!h/1!s - 1!h/1!s/1!n
