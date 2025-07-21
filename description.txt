@@ -571,6 +571,7 @@ pass not enough for any opening
 		3s
 		3n to play
 	2c 12+ HCP, 5+!c, 4-!d, 4-!h, 4-!s
+		2d 12-14 HCP 
 	2d 10+ HCP, 4+!d, 4-!h, 4-!s
 	2h 6-10 HCP, 5+!s, 4+!h
 	2s 
